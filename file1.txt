@@ -1,1 +1,4 @@
 file1
+adding changes
++++++++++
+new changes
